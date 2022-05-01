@@ -28,7 +28,7 @@ function modelLoaded()
     console.log("Model Loaded !");
     status = true;
     video.loop();
-    video.volume(1);
+    video.volume(0);
     video.speed(1);
 
 }
